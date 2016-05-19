@@ -1,0 +1,77 @@
+C:\Users\Wendy\AppData\Local\Temporary Projects\Tetris\bin\Debug\Tetris.exe
+C:\Users\Wendy\AppData\Local\Temporary Projects\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Wendy\AppData\Local\Temporary Projects\Tetris\bin\Debug\Tetris.xml
+C:\Users\Wendy\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\Tetris.Resources.resources
+C:\Users\Wendy\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\Tetris.Tetris.resources
+C:\Users\Wendy\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\Tetris.vbproj.GenerateResource.Cache
+C:\Users\Wendy\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Wendy\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\Tetris.xml
+C:\Users\Wendy\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\Tetris.pdb
+D:\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+D:\Tetris\Tetris\obj\x86\Debug\Tetris.xml
+D:\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+D:\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Tetris\Tetris\bin\Debug\Tetris.xml
+D:\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tetris\Tetris\obj\x86\Debug\Tetris.Resources.resources
+D:\Tetris\Tetris\obj\x86\Debug\Tetris.Tetris.resources
+D:\Tetris\Tetris\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tetris\Tetris\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\angela\Downloads\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\angela\Downloads\Tetris\Tetris\obj\x86\Debug\Tetris.xml
+C:\Users\angela\Downloads\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\angela\Downloads\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\angela\Downloads\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\angela\Downloads\Tetris\Tetris\bin\Debug\Tetris.xml
+C:\Users\angela\Downloads\Tetris\Tetris\obj\x86\Debug\Tetris.Resources.resources
+C:\Users\angela\Downloads\Tetris\Tetris\obj\x86\Debug\Tetris.Tetris.resources
+C:\Users\angela\Downloads\Tetris\Tetris\obj\x86\Debug\Tetris.vbproj.GenerateResource.Cache
+C:\Users\angela\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\angela\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.xml
+C:\Users\angela\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\angela\Documents\Visual Studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\angela\Documents\Visual Studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\angela\Documents\Visual Studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.xml
+C:\Users\angela\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.Resources.resources
+C:\Users\angela\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.Tetris.resources
+C:\Users\angela\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Public\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.xml
+C:\Users\Public\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Public\Documents\Visual Studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Public\Documents\Visual Studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Public\Documents\Visual Studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.xml
+C:\Users\Public\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.Resources.resources
+C:\Users\Public\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.Tetris.resources
+C:\Users\Public\Documents\Visual Studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.vbproj.GenerateResource.Cache
+C:\Users\Wendy\Desktop\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Wendy\Desktop\Tetris\Tetris\obj\x86\Debug\Tetris.xml
+C:\Users\Wendy\Desktop\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Wendy\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Wendy\Desktop\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Wendy\Desktop\Tetris\Tetris\bin\Debug\Tetris.xml
+C:\Users\Wendy\Desktop\Tetris\Tetris\obj\x86\Debug\Tetris.Resources.resources
+C:\Users\Wendy\Desktop\Tetris\Tetris\obj\x86\Debug\Tetris.Tetris.resources
+C:\Users\Wendy\Desktop\Tetris\Tetris\obj\x86\Debug\Tetris.vbproj.GenerateResource.Cache
+C:\Users\Wendy\Desktop\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Wendy\Desktop\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.xml
+C:\Users\Wendy\Desktop\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Wendy\Desktop\TetrisFORAmateursAngela&Wendy\Tetris\bin\Debug\Tetris.exe
+C:\Users\Wendy\Desktop\TetrisFORAmateursAngela&Wendy\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Wendy\Desktop\TetrisFORAmateursAngela&Wendy\Tetris\bin\Debug\Tetris.xml
+C:\Users\Wendy\Desktop\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.Resources.resources
+C:\Users\Wendy\Desktop\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.Tetris.resources
+C:\Users\Wendy\Desktop\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.vbproj.GenerateResource.Cache
+C:\Angela Chang\Grade 10\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.exe
+C:\Angela Chang\Grade 10\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.xml
+C:\Angela Chang\Grade 10\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Angela\Documents\2013-2014\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.xml
+C:\Users\Angela\Documents\2013-2014\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Angela\Documents\2013-2014\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\bin\Debug\Tetris.exe
+C:\Users\Angela\Documents\2013-2014\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.Resources.resources
+C:\Users\Angela\Documents\2013-2014\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.Tetris.resources
+C:\Users\Angela\Documents\2013-2014\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.vbproj.GenerateResource.Cache
+C:\Users\Angela\Documents\2013-2014\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Angela\Documents\2013-2014\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\bin\Debug\Tetris.xml
+C:\Users\Angela\Documents\2013-2014\ICS\VB\TetrisFORAmateursAngela&Wendy\Tetris\obj\x86\Debug\Tetris.exe
