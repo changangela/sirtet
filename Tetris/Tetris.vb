@@ -1,5 +1,6 @@
 ﻿Public Class Tetris
 
+
     Private GRID_SIZE As Integer = 24
     Private GRID_X As Integer = 10
     Private GRID_Y As Integer = 24
