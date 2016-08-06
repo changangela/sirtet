@@ -1,6 +1,6 @@
-## Tetris For Amateurs
+## Sirtet
 
-A traditional Tetris game with many additional features designed and written in Visual Basics 2010.
+A modified version of the traditional Tetris game with many additional features designed and written in Visual Basics 2010.
 
 ## Installation
 
