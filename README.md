@@ -1,6 +1,6 @@
-## Sirtet
+## Tetris For Amateurs
 
-A modified version of the traditional Tetris game with many additional features designed and written in Visual Basics 2010.
+A modified version of the traditional Tetris game with many additional features designed to alter the difficulty of the game. Written in VB.NET on Visual Studio 2010.
 
 ## Installation
 
