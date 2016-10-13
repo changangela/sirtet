@@ -4,6 +4,10 @@ Tetris for Amateurs is a variation of the traditional Tetris tile-matching puzzl
 
 This modification includes many additional features not offered by the classical game, including the ability for the player to hold blocks for future use, display block shadow, and customize block drop speeds. Tetris for Amateurs was designed to allow players to enjoy a less challenging game of Tetris for leisure play while balancing additional strategic elements.
 
+<p align="center">
+  <img src="tetris-for-amateurs.png">
+</p>
+
 ## Installation
 
 The exe file can be found at tetris/Tetris/bin/Debug/Tetris.exe. The corresponding source code can be found at tetris/Tetris/Tetris.vb
